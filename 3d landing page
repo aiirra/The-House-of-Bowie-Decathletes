@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Bowie Decathlon</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+
+</head>
+
+<body>
+
+<canvas id="bg"></canvas>
+
+<div class="hero">
+
+<h1>The House of Bowie</h1>
+
+<p>Academic Decathlon</p>
+
+<a href="scrollytelling.html" class="btn">Explore</a>
+
+</div>
+
+<script src="js/3d.js"></script>
+
+</body>
+</html>
