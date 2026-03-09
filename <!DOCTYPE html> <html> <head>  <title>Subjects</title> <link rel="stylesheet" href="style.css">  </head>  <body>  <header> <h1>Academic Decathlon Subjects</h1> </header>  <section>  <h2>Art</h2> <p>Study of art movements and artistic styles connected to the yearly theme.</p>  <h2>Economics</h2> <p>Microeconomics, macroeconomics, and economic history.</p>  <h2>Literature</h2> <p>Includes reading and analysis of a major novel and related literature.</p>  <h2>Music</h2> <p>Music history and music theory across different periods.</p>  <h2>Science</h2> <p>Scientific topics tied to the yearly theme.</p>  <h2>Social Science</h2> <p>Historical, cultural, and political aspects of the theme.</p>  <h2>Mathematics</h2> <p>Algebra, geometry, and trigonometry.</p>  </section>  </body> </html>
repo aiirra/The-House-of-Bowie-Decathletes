@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Subjects</title>
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+<h1>Academic Decathlon Subjects</h1>
+</header>
+
+<section>
+
+<h2>Art</h2>
+<p>Study of art movements and artistic styles connected to the yearly theme.</p>
+
+<h2>Economics</h2>
+<p>Microeconomics, macroeconomics, and economic history.</p>
+
+<h2>Literature</h2>
+<p>Includes reading and analysis of a major novel and related literature.</p>
+
+<h2>Music</h2>
+<p>Music history and music theory across different periods.</p>
+
+<h2>Science</h2>
+<p>Scientific topics tied to the yearly theme.</p>
+
+<h2>Social Science</h2>
+<p>Historical, cultural, and political aspects of the theme.</p>
+
+<h2>Mathematics</h2>
+<p>Algebra, geometry, and trigonometry.</p>
+
+</section>
+
+</body>
+</html>
